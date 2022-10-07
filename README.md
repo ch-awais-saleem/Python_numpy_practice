@@ -7,3 +7,5 @@ Snippet:
 np.array([True, 1, 2]) + np.array([3, 4, False])
 Result:
 array([4, 5, 2])
+
+As numpy forces array has single type of values so it's speed is much X faster than normal python arrays.
